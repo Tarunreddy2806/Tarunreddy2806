@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarunreddy2806
 - 👀 I’m interested in contributions
-- 🌱 I’m currently learning Python, Html, c, c++, java, Machinelearning&Artificialintelligence
+- 🌱 My tech stack Python, Html, c, c++, java, Machinelearning&Artificialintelligence, SQL.
 - 📫 How to reach me tarunramireddy2864@gmail.com
 
 <!---
