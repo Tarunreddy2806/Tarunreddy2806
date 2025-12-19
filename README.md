@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarunreddy2806
 - 👀 I’m interested in contributions
-- 🌱 My tech stack Python, Html, c, c++, java, Machinelearning&Artificialintelligence, SQL.
+- 🌱 Python, SQL, Numpy, Pandas, Matplotlib, Seaborn.
 - 📫 How to reach me tarunramireddy2864@gmail.com
 
 <!---
